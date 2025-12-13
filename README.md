@@ -91,12 +91,12 @@ We use *Guardrails AI* to filter outputs. The system strictly refuses to diagnos
 
 
 ---
+<h2>👥 Team Members</h2>
 
-## 👥 Team Members
+<ul>
+  <li><a href="https://github.com/gsmpraneeth">Praneeth</a></li>
+  <li><a href="https://github.com/Yash14325">Yash</a></li>
+  <li><a href="https://github.com/kolli-mahesh">Mahesh</a></li>
+  <li><a href="https://github.com/dinesh9997">Dinesh</a></li>
+</ul>
 
-- [*Praneeth*](https://github.com/gsmpraneeth)
-- [*Yash*](https://github.com/Yash14325)
-- [*Mahesh*](https://github.com/kolli-mahesh)
-- [*Dinesh*](https://github.com/dinesh9997)
-
----
